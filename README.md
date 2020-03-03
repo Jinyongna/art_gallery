@@ -1,5 +1,4 @@
-# art_gallery_jinyongna
-### idea warehouse
+# art_gallery_jinyongna ### idea warehouse
 
 --------------------------------------------
 
