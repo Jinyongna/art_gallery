@@ -1,7 +1,7 @@
 ### art_gallery_jinyongna 
 ------------------------------------------
 ###### idea warehouse
-  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">
+  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">
 
 --------------------------------------------
 
