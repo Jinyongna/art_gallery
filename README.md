@@ -4,7 +4,7 @@
 --------------------------------------------
 
 #### More information : 
-1. visit : https://jinyongart.tumblr.com/ (tumblr main blog)
+1. visit : [jinyongna's main blog](https://jinyongart.tumblr.com/)
 2. instagram : jinyong444
   
 ---------------------------------------------------------
