@@ -1,5 +1,6 @@
 ### art_gallery_jinyongna 
 ###### idea warehouse
+![main_projects' logo](./logo.png)
 
 --------------------------------------------
 
