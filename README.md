@@ -1,6 +1,6 @@
 # art_gallery
 ## idea warehouse
-===================================================================================
+
 
 #### More information : 
 1. visit https://jinyongart.tumblr.com/ <tumblr main blog>
