@@ -1,6 +1,7 @@
 ### art_gallery_jinyongna 
 ------------------------------------------
-###### idea warehouse
+##### idea warehouse
+###### 'Vague Magenta'is another author's figure. It's not a project of making my own art works but also a diffrent side of the reality.
   <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">
 
 --------------------------------------------
