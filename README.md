@@ -22,3 +22,5 @@
 > When I think of something new or when I have to get some inspirations, I always come up with my
 > favorite songs first. Those have quiet same vibe, which is neutral and sometimes, vague.
 
+### 2020.03.08 : waking up
+> I can't explain but I can feel mine wants to be woken as soon as possible. But we should wait sometimes..
