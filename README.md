@@ -1,4 +1,4 @@
-### art_gallery_jinyongna 
+### designed by JinyongNa
 ------------------------------------------
 #### Organized some works from [idea warehouse](https://jinyongart.tumblr.com/)
 ###### 'Vague Magenta' is another author's figure. It's a project title but also a diffrent side of his reality.
@@ -11,7 +11,7 @@
 2. instagram : jinyong444
   
 ---------------------------------------------------------
-#### Project : 'Vague Magenta'
+#### Project title : 'Vague Magenta' : 2020.02.10 ~
 ### Summary : Currently, I'm working on 3D experimental game.
 > Those are all about human nature and our mental problems. 
 
@@ -23,4 +23,5 @@
 > favorite songs first. Those have quiet same vibe, which is neutral and sometimes, vague.
 
 ### 2020.03.08 : waking up
-> I can't explain but I can feel mine wants to be woken as soon as possible. But we should wait sometimes..
+> I can't explain but I can feel mine wants to be woken as soon as possible. But we should wait sometimes.
+> Maybe we can see the open world nearby. Enough is enough!
