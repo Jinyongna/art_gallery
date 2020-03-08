@@ -1,6 +1,6 @@
 ### designed by JinyongNa
 ------------------------------------------
-#### Organized some works from [idea warehouse](https://jinyongart.tumblr.com/)
+#### Organized from [idea warehouse](https://jinyongart.tumblr.com/)
 ###### 'Vague Magenta' is another author's figure. It's a project title but also a diffrent side of his reality.
   <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">  <img src="./logo.png" width="23%" height="23%">
 
