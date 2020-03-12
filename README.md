@@ -23,3 +23,9 @@
 
 ### 2020.03.08 : Fetal movement
 > delected
+
+----------------
+
+### 2020.03.12 : What is the main object?
+> What a pity, you'd never know the terra is a battleground of !
+ ဘာသာတရား
